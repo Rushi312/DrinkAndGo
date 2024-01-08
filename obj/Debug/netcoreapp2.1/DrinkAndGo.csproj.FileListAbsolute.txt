@@ -1,0 +1,10 @@
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.csproj.CoreCompileInputs.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cs
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfoInputs.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfo.cs
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.input.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.output.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorCoreGenerate.cache
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.dll
+D:\project\FoodAndGo\FoodAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.pdb
